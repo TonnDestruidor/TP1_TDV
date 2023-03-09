@@ -1,0 +1,6 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"C:/Users/User/TP1_TDV/Monogame/Monogame1/Content/Character4.png","C:/Users/User/TP1_TDV/Monogame/Monogame1/Content/bin/DesktopGL/Character4.xnb","TextureProcessor","Texture2DContent",1668,8817,0,4111243
+"C:/Users/User/TP1_TDV/Monogame/Monogame1/Content/Crate_Brown.png","C:/Users/User/TP1_TDV/Monogame/Monogame1/Content/bin/DesktopGL/Crate_Brown.xnb","TextureProcessor","Texture2DContent",1064,16469,0,0055099
+"C:/Users/User/TP1_TDV/Monogame/Monogame1/Content/EndPoint_Blue.png","C:/Users/User/TP1_TDV/Monogame/Monogame1/Content/bin/DesktopGL/EndPoint_Blue.xnb","TextureProcessor","Texture2DContent",592,4181,0,0053292
+"C:/Users/User/TP1_TDV/Monogame/Monogame1/Content/File.spritefont","C:/Users/User/TP1_TDV/Monogame/Monogame1/Content/bin/DesktopGL/File.xnb","FontDescriptionProcessor","SpriteFontContent",2068,21535,0,1892579
+"C:/Users/User/TP1_TDV/Monogame/Monogame1/Content/Wall_Black.png","C:/Users/User/TP1_TDV/Monogame/Monogame1/Content/bin/DesktopGL/Wall_Black.xnb","TextureProcessor","Texture2DContent",1437,16469,0,0055669
